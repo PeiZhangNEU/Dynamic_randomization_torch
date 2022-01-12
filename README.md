@@ -1,0 +1,2 @@
+# Dynamic_randomization_torch
+2018 Dynamic_randomization pytorch version
